@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_Screen_201928011</string>
+    <string name="e_mail">E-mail (201928011)</string>
+    <string name="password">Password</string>
+    <string name="s_gn_in">Sıgn In</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="sign_up">Sign Up</string>
+</resources>
